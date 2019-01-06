@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sku_ids">
+        <item>android.test.purchased"</item>
+        <item>android.test.purchased"</item>
+        <item>android.test.purchased"</item>
+        <item>android.test.purchased"</item>
+        <item>android.test.purchased"</item>
+        <item>android.test.purchased"</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">In-app-purchase</string>
+    <string name="thank_you">Thank you so much!</string>
+    <string name="donate_me">Donate me!</string>
+</resources>
